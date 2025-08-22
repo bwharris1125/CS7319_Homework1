@@ -3,9 +3,6 @@ select = ["E", "F", "D"]
 ignore = []
 line-length = 79
 
-[tool.ruff.pydocstyle]
-convention = "pep257"
-
 [tool.isort]
 profile = "black"
 line_length = 88
